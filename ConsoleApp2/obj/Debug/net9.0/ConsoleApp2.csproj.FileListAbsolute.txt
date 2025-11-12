@@ -1,0 +1,14 @@
+/Users/timurhaykov/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2
+/Users/timurhaykov/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.deps.json
+/Users/timurhaykov/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.runtimeconfig.json
+/Users/timurhaykov/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.dll
+/Users/timurhaykov/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.pdb
+/Users/timurhaykov/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timurhaykov/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/timurhaykov/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.AssemblyInfo.cs
+/Users/timurhaykov/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/timurhaykov/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.dll
+/Users/timurhaykov/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/refint/ConsoleApp2.dll
+/Users/timurhaykov/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.pdb
+/Users/timurhaykov/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.genruntimeconfig.cache
+/Users/timurhaykov/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ref/ConsoleApp2.dll
