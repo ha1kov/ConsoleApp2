@@ -10,21 +10,19 @@ public class Group
 
     public double GetGradesAverage()
     {
-        if (Students is null)
-            throw new NullReferenceException($"null reference {nameof(Group.Students)}");
-        double average = 0;
-        foreach (var student in Students)
-        {
-            average += student.GetAverage();
-        }
-        return average;
+        // if (Students is null)
+        //     throw new NullReferenceException($"null reference {nameof(Group.Students)}");
+        // double average = 0;
+        // foreach (var student in Students)
+        // {
+        //     average += student.GetAverage();
+        // }
+        // return average;
+        return Students.Select(student => student.GetAverage()).Average();
     }
     
-    public double GetGradesAverage(string SubjectNamr) // перевантаження методів -
-        // це коли є методи з
-        // однаковою назвою,
-        // вле різним списком вхідних параметрів
+    public double GetGradesAverage(string SubjectName)
     {
-        return 0;
+        return Students.Select(student => student. GetAverage(SubjectName)).Average();
     }
 }

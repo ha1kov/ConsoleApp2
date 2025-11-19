@@ -3,10 +3,13 @@ namespace ConsoleApp2.Domain.Entities;
 public class Student
 {
     private string _email;
+    
     private string _phoneNumber;
 
     public required string Name { get; set; }
+    
     public required string Surname { get; set; }
+    
     public DateOnly BirthDate { get; set; }
 
     public string Email
