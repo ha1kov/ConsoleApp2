@@ -10,7 +10,14 @@ public class Group
 
     public double GetGradesAverage()
     {
-        return 0;
+        if (Students is null)
+            throw new NullReferenceException($"null reference {nameof(Group.Students)}");
+        double average = 0;
+        foreach (var student in Students)
+        {
+            average += student.GetAverage();
+        }
+        return average;
     }
     
     public double GetGradesAverage(string SubjectNamr) // перевантаження методів -
